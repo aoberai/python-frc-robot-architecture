@@ -1,7 +1,7 @@
 attrs==19.3.0
 bcrypt==3.1.7
 cffi==1.14.0
-cryptography==2.8
+cryptography==3.3.2
 more-itertools==8.2.0
 numpy==1.17.3
 packaging==20.3
